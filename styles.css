@@ -1,0 +1,28 @@
+body {
+    background-color: aqua;
+  }
+  table {
+    font-family: 'Roboto', sans-serif;
+  }
+  table, th, td {
+    border: 3px solid;
+    text-align: left;
+  }
+  .firsTitleHead {
+    width: 30%;
+  }
+  .secondTitleHead {
+    width: 70%;
+  }
+  .thirdTitleHead {
+    width: 100%;
+  }
+  th {
+    height: 30px;
+  }
+  tr {
+    height: 50px;
+  }
+  img {
+    width: 100%
+  }
